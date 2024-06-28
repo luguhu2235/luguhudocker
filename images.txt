@@ -8,3 +8,5 @@ mzz2017/v2raya:latest
 v2ray/official
 ranjie/rmoments:v0.4.1_with_redis
 sismics/docs
+shinobi/shinobi:latest
+zoneminder/zoneminder:latest
